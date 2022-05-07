@@ -1,16 +1,31 @@
 {
   "files": {
     "main.css": "/villains-clock/static/css/main.e7720ab7.css",
-    "main.js": "/villains-clock/static/js/main.b9364304.js",
+    "main.js": "/villains-clock/static/js/main.fdb4fdc4.js",
     "static/js/787.1cde9a1e.chunk.js": "/villains-clock/static/js/787.1cde9a1e.chunk.js",
+    "static/media/Lotso.png": "/villains-clock/static/media/Lotso.f99cbf7a199ebdfb6b9b.png",
+    "static/media/Ratigan.png": "/villains-clock/static/media/Ratigan.2abd34adc9fec1e005a8.png",
+    "static/media/Prince John.png": "/villains-clock/static/media/Prince John.35930b214af9b8ddadcf.png",
+    "static/media/Queen of Hearts.png": "/villains-clock/static/media/Queen of Hearts.b80e6b3ddc4035bc60b5.png",
+    "static/media/Scar.png": "/villains-clock/static/media/Scar.6f5be82d3ebcdb63b584.png",
+    "static/media/Doctor Facilier.png": "/villains-clock/static/media/Doctor Facilier.442a51ec12aecb388eb2.png",
+    "static/media/Madam Mim.png": "/villains-clock/static/media/Madam Mim.23a26ff4b1ae69714abd.png",
+    "static/media/Syndrome.png": "/villains-clock/static/media/Syndrome.de87295a983f4fbe3499.png",
+    "static/media/Yzma.png": "/villains-clock/static/media/Yzma.acadaf6b93916aa2b967.png",
+    "static/media/Maleficent.png": "/villains-clock/static/media/Maleficent.8e4e94ea24a177165e60.png",
+    "static/media/Jafar.png": "/villains-clock/static/media/Jafar.1fb379800cbeb1d03dfc.png",
+    "static/media/Hades.png": "/villains-clock/static/media/Hades.2b4e1d11929aed104e2c.png",
     "static/media/SharkLogo.png": "/villains-clock/static/media/SharkLogo.b09f2432a2894a293d7c.png",
+    "static/media/Ursula.png": "/villains-clock/static/media/Ursula.1ac6a49c2c912c0ec7bf.png",
+    "static/media/Captain Hook.png": "/villains-clock/static/media/Captain Hook.f884c0c8b8f7fce341f1.png",
+    "static/media/The Evil Queen.png": "/villains-clock/static/media/The Evil Queen.5a26784e824772b2e745.png",
     "index.html": "/villains-clock/index.html",
     "main.e7720ab7.css.map": "/villains-clock/static/css/main.e7720ab7.css.map",
-    "main.b9364304.js.map": "/villains-clock/static/js/main.b9364304.js.map",
+    "main.fdb4fdc4.js.map": "/villains-clock/static/js/main.fdb4fdc4.js.map",
     "787.1cde9a1e.chunk.js.map": "/villains-clock/static/js/787.1cde9a1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7720ab7.css",
-    "static/js/main.b9364304.js"
+    "static/js/main.fdb4fdc4.js"
   ]
 }
