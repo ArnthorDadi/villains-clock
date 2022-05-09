@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/villains-clock/static/css/main.e7720ab7.css",
-    "main.js": "/villains-clock/static/js/main.fdb4fdc4.js",
+    "main.js": "/villains-clock/static/js/main.53e26699.js",
     "static/js/787.1cde9a1e.chunk.js": "/villains-clock/static/js/787.1cde9a1e.chunk.js",
     "static/media/Lotso.png": "/villains-clock/static/media/Lotso.f99cbf7a199ebdfb6b9b.png",
     "static/media/Ratigan.png": "/villains-clock/static/media/Ratigan.2abd34adc9fec1e005a8.png",
@@ -21,11 +21,11 @@
     "static/media/The Evil Queen.png": "/villains-clock/static/media/The Evil Queen.5a26784e824772b2e745.png",
     "index.html": "/villains-clock/index.html",
     "main.e7720ab7.css.map": "/villains-clock/static/css/main.e7720ab7.css.map",
-    "main.fdb4fdc4.js.map": "/villains-clock/static/js/main.fdb4fdc4.js.map",
+    "main.53e26699.js.map": "/villains-clock/static/js/main.53e26699.js.map",
     "787.1cde9a1e.chunk.js.map": "/villains-clock/static/js/787.1cde9a1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7720ab7.css",
-    "static/js/main.fdb4fdc4.js"
+    "static/js/main.53e26699.js"
   ]
 }
